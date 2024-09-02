@@ -28,9 +28,9 @@ public class customer {
         /*
         working with long data type
          */
-        long totalSavings;
-        totalSavings = 5674564564l;
-        System.out.println("totalSavings:" + totalSavings);
+        long totalsavings;
+        totalsavings = 5674564564L;
+        System.out.println("totalsavings:" + totalsavings);
 
         /*working with float data type/*
 
@@ -45,7 +45,7 @@ public class customer {
 
         double avgrevenue;
         avgrevenue = 23232323.34;
-        System.out.println("avgrevenue:"+ 2.323232334E7);
+        System.out.println("avgrevenue:"+ avgrevenue);
 
         /*
         working with char data type
@@ -56,10 +56,10 @@ public class customer {
         System.out.println("gender :"+ gender);
 
      /*
-     working with bolean
+     working with bolean data type
       */
         boolean iseligible;
-        iseligible=true;
+        iseligible = false;
         System.out.println("iseligible :"+ iseligible);
     }
 }
