@@ -37,7 +37,7 @@ public class customer {
          */
         float avg;
         avg = 232323.55f;
-        System.out.println("avg salary :"+avg);
+        System.out.println("avg salary :" + avg);
 
         /*
         working with double data type
@@ -45,21 +45,14 @@ public class customer {
 
         double avgrevenue;
         avgrevenue = 23232323.34;
-        System.out.println("avgrevenue:"+ avgrevenue);
+        System.out.println("avgrevenue:" + avgrevenue);
 
         /*
         working with char data type
          */
 
         char gender;
-        gender='m';
-        System.out.println("gender :"+ gender);
-
-     /*
-     working with bolean data type
-      */
-        boolean iseligible;
-        iseligible = false;
-        System.out.println("iseligible :"+ iseligible);
+        gender = 'm';
+        System.out.println("gender :" + gender);
     }
 }
